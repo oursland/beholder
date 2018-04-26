@@ -60,3 +60,7 @@ To view rating information on photos run:
 
 All detected faces will be highlighted in rectangles with the
 associated rating.
+
+## Paper
+
+The paper can be found here: [paper/paper.pdf](paper/paper.pdf).

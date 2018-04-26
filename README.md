@@ -1,5 +1,7 @@
 # Beholder
 
+![Beholder](attractive-robot.png)
+
 "Beauty is in the eye of the beholder" as the saying goes.  Well now
 that task has been automated as well.
 
